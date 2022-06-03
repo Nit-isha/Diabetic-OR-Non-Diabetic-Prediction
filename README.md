@@ -1,6 +1,7 @@
 # Diabetic-OR-Non-Diabetic-Prediction
 
 `Binary Classification`
+`Support Vector Machine Model`
 
 Building a system in Python that can predict whether the person is Diabetic or Not based on the [Recorded Data](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database).
 For prediction Supervised Machine Learning Model is used and executed in Jupyter Notebook using Python.
