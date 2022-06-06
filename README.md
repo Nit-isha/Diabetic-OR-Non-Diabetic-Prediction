@@ -22,6 +22,15 @@ Get Dataset: [Here](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-
 This model can be used to predict whether a women is Diabetic or Not by just entering the required input.
 i.e., Pregnancies, Glucose, Blood Pressure, Skin thickness, Insulin, BMI, DiabetesPedigreeFunction, and Age.
 
+- Pregnancies : Number of times pregnant
+- Glucose : Plasma glucose concentration a 2 hours in an oral glucose tolerance test.
+- Blood Pressure : Diastolic blood pressure (mm Hg).
+- Skin Thickness : Triceps skin fold thickness (mm).
+- Insulin : 2-Hour serum insulin (mu U/ml).
+- BMI : Body mass index (weight in kg/(height in m)^2).
+- Diabetes Pedigree Function : Likelihood of diabetes based on family history.
+- Age : Age in years.
+
 ---
 
 - Clone the project
